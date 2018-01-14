@@ -7,22 +7,23 @@ body{
 	margin-bottom: 30px;
 	width: 100vw;
 	padding:10px;
-	background:	#A9A9A9;
+	background:white;
 	float:left;
 	margin-top:-50px;
 	margin-left: -20px;
 	height:30px;
+	border-bottom: 1.5px solid #eeeeee
 }
 
 .navlist{
-	margin-top:6px;
+	margin-top:-0.8px;
 	float:right;
 	margin-right:40px;
-	font: 17px 'Libre Franklin',sans-serif;
+	font: 22px 'Oswald',sans-serif;
 }
 
 .home a{
-color:white;
+color:#C0C0C0;
 text-decoration: none;
 opacity: 1;
 transition: opacity .25s ease-in-out;
@@ -35,7 +36,7 @@ transition: opacity .25s ease-in-out;
 }
 
 .contact a{
-color:white;
+color:#C0C0C0;
 text-decoration: none;
 opacity: 1;
 transition: opacity .25s ease-in-out;
@@ -48,7 +49,7 @@ transition: opacity .25s ease-in-out;
 }
 
 .about a{
-color:white;
+color:#C0C0C0;
 text-decoration: none;
 opacity: 1;
 transition: opacity .25s ease-in-out;
@@ -63,6 +64,7 @@ transition: opacity .25s ease-in-out;
 .left-container{
 	float:left;
 	padding:40px;
+	margin-left: 40px;
 }
 
 .center-container{
@@ -71,17 +73,21 @@ transition: opacity .25s ease-in-out;
 }
 
 header{
-	margin-bottom: 80px;
+	margin-bottom: 55px;
 	margin-top:50px;
 	padding-top:25px;
 }
 
 h1{
-	font:bold 40px 'Open Sans',sans-serif;
+	font:bold 40px 'Oswald',sans-serif;
+	letter-spacing: 2px;
+	margin-bottom:-5px;
 }
 
 h2{
-	font:bold 24px/32px 'Libre Franklin', sans-serif;
+	font:24px/32px 'Libre Franklin', sans-serif;
+	letter-spacing: -0.2px;
+	color:#696969;
 }
 
 p{
