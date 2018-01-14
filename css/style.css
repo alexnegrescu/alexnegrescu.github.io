@@ -1,0 +1,95 @@
+body{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+.navigation{
+	margin-bottom: 30px;
+	width: 100%;
+	padding:10px;
+	background:	#DCDCDC;
+	float:left;
+	margin-top:-50px;
+}
+
+.left-container{
+	float:left;
+	padding:40px;
+}
+
+.center-container{
+	width: 500px;
+	margin: 0 auto;
+}
+
+header{
+	margin-bottom: 55px;
+	margin-top:50px;
+	padding-top:25px;
+}
+
+h1{
+	font:bold 40px 'Open Sans',sans-serif;
+}
+
+h2{
+	font:bold 24px/32px 'Libre Franklin', sans-serif;
+}
+
+p{
+	font:100 16px/25px 'Libre Franklin', sans-serif;
+	text-align: justify;
+}
+
+.me{
+	width: 200px;
+	border-radius: 100%;
+	margin-bottom: 40px;
+	margin-top:70px;
+}
+
+img.me:hover{
+	opacity: 0.7;
+}
+
+ul{
+	float:right;
+}
+
+ul li{
+	list-style: none; 
+	float:left;
+	margin-left: 10px;
+}
+
+ul li img{
+	width: 40px
+}
+
+ul li img:hover{
+	opacity: 0.4
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
