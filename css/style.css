@@ -4,11 +4,34 @@ body{
 
 .navigation{
 	margin-bottom: 30px;
-	width: 100%;
+	width: 100vw;
 	padding:10px;
-	background:	#DCDCDC;
+	background:	#A9A9A9;
 	float:left;
 	margin-top:-50px;
+	margin-left: -20px;
+	height:30px;
+}
+
+.navlist{
+	margin-top:1px;
+	float:left;
+	font:18px 'Open Sans',sans-serif;
+}
+
+.home a{
+color:white;
+text-decoration: none;
+}
+
+.contact a{
+color:white;
+text-decoration: none;
+}
+
+.about a{
+color:white;
+text-decoration: none;
 }
 
 .left-container{
@@ -44,7 +67,7 @@ p{
 	width: 200px;
 	border-radius: 100%;
 	margin-bottom: 40px;
-	margin-top:70px;
+	margin-top:-45px;
 }
 
 img.me:hover{
