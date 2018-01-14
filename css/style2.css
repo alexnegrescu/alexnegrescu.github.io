@@ -1,0 +1,85 @@
+body{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+header{
+	text-align:center;
+	font:bold 50px 'Oswald',sans-serif;
+	margin-top: 50px;
+}
+
+h1{
+	font:bold 60px 'Oswald',sans-serif;
+}
+
+ul li img{
+	width: 100px
+}
+
+.list1{
+	list-style: none; 
+	font:18px 'Libre Franklin', sans-serif;
+	float:left;
+}
+
+.card{
+	margin-left: 60px;
+	margin-top: 50px;
+	border: none;
+}
+
+.card-img-top{
+	width: 200px
+}
+
+.card2{
+	margin-left: 140px;
+	margin-top: 25px;
+	border: none;
+}
+
+.ey{
+	width: 120px
+}
+
+.ey-text{
+	font:bold 18px 'Libre Franklin', sans-serif;
+	margin-top:15px;
+}
+
+.card-text{
+	font:bold 18px 'Libre Franklin', sans-serif;
+	text-align: center;
+}
+
+
+.phillip{
+	margin-top: 25px;
+	width: 270px;
+	margin-left: 15px;
+}
+
+.phillip-text{
+	font:bold 18px 'Libre Franklin', sans-serif;
+	margin-left: 143px;
+	margin-top: 10px;
+}
+
+.saatchi{
+	margin-top: 8px;
+	width:150px;
+	margin-left: 120px;
+}
+
+.saatchi-text{
+	font:bold 18px 'Libre Franklin', sans-serif;
+	margin-left: 120px;
+	margin-top: -5px;
+}
+
+
+
+
+
+
+
